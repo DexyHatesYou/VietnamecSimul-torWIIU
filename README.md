@@ -1,2 +1,2 @@
 # VietnamecSimulatorWIIU
- Hra na WII U o každodenního vietnamce
+ Hra na WII U o každodenním životě vietnamce
